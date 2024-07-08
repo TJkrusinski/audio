@@ -1,0 +1,4 @@
+*.o
+capture
+devices
+playback
